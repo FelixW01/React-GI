@@ -28,10 +28,10 @@ To run locally, follow these steps:
     ```
     
 3. To run the application, run these scripts:
-  ```bash
-    npm run build
-    npm run dev
-   ```
+    ```bash
+     npm run build
+     npm run dev
+    ```
 
 ## Contributing
 Felix Willem
