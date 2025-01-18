@@ -4,7 +4,8 @@ import './App.css'
 // App class, render method with a hard coded div  *
 // Make div dynamic by using this.state 
 // Take in props from parent component
-
+// Turn this.state.person to an array of people
+// Map thru array of people to render basicInfo for individual person
 // BasicInfo class component that takes in info from App and renders it dynamically
 class BasicInfo extends Component {
     render() {
